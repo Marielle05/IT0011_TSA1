@@ -1,6 +1,0 @@
-First Name: Marielle
-Last Name: Torres
-Age: 19
-Contact Number: 09922139316
-Course: BSIT - BA
-------------------------------
